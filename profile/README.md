@@ -4,7 +4,7 @@
 <h1>#Sol-Earn</h1>
 
 
-![IMG-20230314-WA0020](https://user-images.githubusercontent.com/66975592/224917188-6f2b6e96-b945-4cb4-bb9b-d4eb98e94923.jpg)
+mtp://SAMSUNG_SAMSUNG_Android_R58T41NLQTL/Internal%20storage/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Images/Private/IMG-20230314-WA0074.jpg
 
 <h1>Overview:</h1>
 
