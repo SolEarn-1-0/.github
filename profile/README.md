@@ -4,7 +4,8 @@
 <h1>#Sol-Earn</h1>
 
 
-/home/johniexx/Pictures/IMG-20230314-WA0074.jpg
+![IMG-20230314-WA0074](https://user-images.githubusercontent.com/66975592/225137552-94fa5e77-5a61-4533-a63e-1ca5799dc976.jpg)
+
 
 <h1>Overview:</h1>
 
