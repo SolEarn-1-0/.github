@@ -4,7 +4,7 @@
 <h1>#Sol-Earn</h1>
 
 
-mtp://SAMSUNG_SAMSUNG_Android_R58T41NLQTL/Internal%20storage/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Images/Private/IMG-20230314-WA0074.jpg
+/home/johniexx/Pictures/IMG-20230314-WA0074.jpg
 
 <h1>Overview:</h1>
 
