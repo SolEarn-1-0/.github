@@ -25,7 +25,27 @@ SolEarn is a decentralized crypto payroll application built on Solana blockchain
        
     
 <h1>Interaction:</h1> SolEarn is user-friendly and easy to use. Businesses can interact with SolEarn through a web interface, which provides access to the dashboard and payroll features. Employees can interact with SolEarn through a web interface, which provides access to their account balance and transaction history.
-Architecture: SolEarn is a decentralized application built using Solana's Rust programming language, React and many other libraries and frameworks. SolEarn uses Solana's smart contract technology to manage employee accounts and process payments. SolEarn also uses Solana's token technology to manage cryptocurrencies and facilitate transactions. SolEarn's architecture ensures fast and secure transactions with low fees.
+
+
+<h1>Architecture:</h1> SolEarn is a decentralized application built using Solana's Rust programming language, React and many other libraries and frameworks. SolEarn uses Solana's smart contract technology to manage employee accounts and process payments. SolEarn also uses Solana's token technology to manage cryptocurrencies and facilitate transactions. SolEarn's architecture ensures fast and secure transactions with low fees.
+
+<h1>Evalution:</h1> 
+
+
+<b>Functionality:</b> SolEarn offers a comprehensive and streamlined payroll system that allows businesses to manage employee payments and offers employees the option to receive their pay in cryptocurrencies. The platform's functionality is intuitive and efficient, making it a valuable tool for businesses looking to streamline their payroll processes.
+
+
+
+<b>Potential Impact: </b>SolEarn's potential impact is significant, as it offers a unique solution to many of the challenges faced by traditional payroll systems. By leveraging cryptocurrencies, businesses can offer their employees a more secure, efficient, and flexible way to receive their pay. This can help to increase employee satisfaction and retention while also reducing the administrative burden on businesses.
+
+<b>Novelty:</b>  The use of cryptocurrencies in payroll systems is still a relatively new concept, making SolEarn a novel and innovative solution. The combination of React and Rust also provides a unique approach to building a web application and smart contract.
+
+<b>UX:</b> SolEarn's user experience is clean, modern, and easy to use. The platform's dashboard is intuitive, and its features are easily accessible. The use of React has helped to optimize performance and speed, providing users with a seamless and efficient experience.
+
+
+<b>Business Plan: </b> SolEarn's business plan is not available, but it has the potential to generate revenue by charging businesses a fee for using the platform. Additionally, the platform could offer premium features or additional services to generate additional revenue streams.
+
+
 <h1>Future Improvements:</h1> SolEarn's future improvements include:
 
 
