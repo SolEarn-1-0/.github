@@ -61,9 +61,17 @@ SolEarn is a decentralized crypto payroll application built on Solana blockchain
     4. Integration with financial services providers: SolEarn will be enhanced to integrate with financial services providers to provide more robust payroll and financial management features.
     
  <h1>Team</h1>
+ 
+ 
  1. <a href="https://github.com/WillDera">Willdera</a>
+
+
  2. <a href="https://github.com/Sophidoo">Sophia</a>
+
+
  3. <a href="https://github.com/Wutche">Wutche</a>
+
+
  4. <a href="https://github.com/Anthonyushie">Anthony</a>
  
  
